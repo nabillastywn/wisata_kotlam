@@ -64,6 +64,17 @@ flutter:
      - images/kotlam1.jpeg
      - images/kotlam2.jpg
      - images/kotlam3.jpg
+     - images/sampookong.png
+     - images/sampookong2.jpg
+     - images/lawangsewu.jpg
+     - images/waduk.jpg
+     - images/candi.png
+     - images/museum.png
+     - images/saloka.jpg
+     - images/umbul.jpg
+     - images/camp.jpg
+     - images/masjd.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
