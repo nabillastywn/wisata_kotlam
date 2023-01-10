@@ -1,16 +1,7 @@
-# wisata_kotlam
+#tugas-ppb-wisata-kota-semarang
 
-A new Flutter project.
+Nama : Nabilla Syaharani P Setyawan <br>
+NIM  : 3.34.21.3.16 <br>
+Kelas: IK-2D
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/116862851/211447542-5d9ae7c1-1c7b-4603-be0f-933cff42129d.png)
